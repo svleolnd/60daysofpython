@@ -1,5 +1,7 @@
 # 60 dias de programacao em python
 
+A intenção é passar 60 dias programando em python do mais básico ao avançado para colocar em prática aprendizados que ficam enferrujado.
+
 - [x] Dia 1 - Ola mundo em Python
 - [x] Dia 2 - Soma de dois numeros de duas formas diferentes
 - [x] Dia 3 - Condicional que verifica se um numero e par ou impar
