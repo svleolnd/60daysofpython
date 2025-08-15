@@ -7,4 +7,5 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 3 - Condicional que verifica se um numero e par ou impar
 - [x] Dia 4 - Laço de repeticao
 - [x] Dia 5 - Funcao que imprimi o quadro de um numero
-- [x] Dia 6  - Lista de frutas
+- [x] Dia 6 - Lista de frutas
+- [x] Dia 7 - Dicionario de aluno dinamico e estastico 
