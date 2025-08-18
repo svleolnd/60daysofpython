@@ -9,3 +9,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 5 - Funcao que imprimi o quadro de um numero
 - [x] Dia 6 - Lista de frutas
 - [x] Dia 7 - Dicionario de aluno dinamico e estastico 
+- [x] Dia 8 - Funcao de checar a idade
