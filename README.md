@@ -14,3 +14,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 10 - Gerador de senhas
 - [x] Dia 11 - Funcao sorted para ordenar uma lista de numeros
 - [x] Dia 12 - Busca linear utilizando lista
+- [x] Dia 13 - Funcao fatorial
