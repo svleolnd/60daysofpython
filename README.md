@@ -17,3 +17,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 13 - Funcao fatorial
 - [x] Dia 14 - Funcao que verifica se um numero é primo
 - [x] Dia 15 - Sequencia de fibonacci
+- [x] Dia 16 - Anagramas
