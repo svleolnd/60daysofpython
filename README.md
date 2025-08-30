@@ -19,3 +19,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 15 - Sequencia de fibonacci
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Palindromos
+- [x] Dia 18 - Funcao de contar palavras
