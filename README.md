@@ -22,3 +22,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 18 - Funcao de contar palavras
 - [x] Dia 19 - Calcular media de notas
 - [x] Dia 20 - funcao de transpor matriz
+- [x] Dia 21 - Conversor de moedas dolar para real
