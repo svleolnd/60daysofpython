@@ -24,3 +24,5 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 20 - funcao de transpor matriz
 - [x] Dia 21 - Conversor de moedas dolar para real
 - [x] Dia 22 - Calculo de IMC
+- [x] Dia 23 - Jogo adivinhacao
+- [x] Dia 24 - Funcao de gerar tabuada
