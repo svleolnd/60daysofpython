@@ -29,3 +29,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 25 - Codigo que gera numeros aleatorios
 - [x] Dia 26 - funcao para escrever em .txt
 - [x] Dia 27 - Conversor de temperatura
+- [X] Dia 28 - Cronometro
