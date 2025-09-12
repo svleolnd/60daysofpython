@@ -32,3 +32,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [X] Dia 28 - Cronometro
 - [X] Dia 29 - gerador de data e hora atual
 - [X] Dia 30 - Cronometro
+- [x] Dia 31 - Raiz quadrada
