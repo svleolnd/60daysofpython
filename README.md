@@ -30,3 +30,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 26 - funcao para escrever em .txt
 - [x] Dia 27 - Conversor de temperatura
 - [X] Dia 28 - Cronometro
+- [X] Dia 29 - gerador de data e hora atual
