@@ -29,9 +29,10 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 25 - Codigo que gera numeros aleatorios
 - [x] Dia 26 - funcao para escrever em .txt
 - [x] Dia 27 - Conversor de temperatura
-- [X] Dia 28 - Cronometro
-- [X] Dia 29 - gerador de data e hora atual
-- [X] Dia 30 - Cronometro
+- [x] Dia 28 - Cronometro
+- [x] Dia 29 - gerador de data e hora atual
+- [x] Dia 30 - Cronometro
 - [x] Dia 31 - Raiz quadrada
 - [x] Dia 32 - Lançar dado
-- [x] Dia 33 - 
+- [x] Dia 33 - Contador de ocorrencias
+- [x] Dia 34 - Lendo arquivo json
