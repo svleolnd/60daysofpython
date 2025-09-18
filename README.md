@@ -37,3 +37,4 @@ A intenção é passar 60 dias programando em python do mais básico ao avançad
 - [x] Dia 33 - Contador de ocorrencias
 - [x] Dia 34 - Lendo arquivo json
 - [x] Dia 35 - Request em API
+- [x] Dia 36 - Crawler em url usando beautiful soup
